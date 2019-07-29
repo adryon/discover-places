@@ -1,0 +1,330 @@
+/* Discover Places.html */
+.table1
+{
+border-collapse:collapse;
+border:2px solid blue;
+}
+#table1
+{
+border-collapse:collapse;
+border:2px solid blue;
+}
+.th1
+{
+background-color:blue;
+color:white;
+}
+#th1
+{
+background-color:blue;
+color:white;
+}
+.table2
+{
+border-collapse;
+border:2px solid #FFFF00;
+}
+#table2
+{
+border-collapse;
+border:2px solid #FFFF00;
+}
+.th2
+{
+background-color:#FFFF00;
+color:black;
+}
+#th2
+{
+background-color:#FFFF00;
+color:black;
+}
+.ul1
+{
+list-style-type:none;
+margin:0;
+padding:0;
+float:left;
+}
+#ul1
+{
+list-style-type:none;
+margin:0;
+padding:0;
+float:left;
+}
+.ul2
+{
+list-style-type:none;
+margin:0;
+padding:0;
+float:right;
+}
+#ul2
+{
+list-style-type:none;
+margin:0;
+padding:0;
+float:right;
+}
+/* Top 10 fantani arteziene.html */
+.icon1
+{
+list-style-type:none;
+margin:0;
+padding:0;
+float:left;
+}
+#icon1
+{
+list-style-type:none;
+margin:0;
+padding:0;
+float:left;
+}
+.slideshow1
+{
+list-style-type:none;
+margin:0;
+padding:0;
+float:center;
+}
+#slideshow1
+{
+list-style-type:none;
+margin:0;
+padding:0;
+float:center;
+}
+/*Parcuri Nationale.html*/
+.table3
+{
+border-collapse;
+border:4px solid blue;
+background-color:#FFCC00;
+}
+#table3
+{
+border-collapse;
+border:4px solid blue;
+background-color:#FFCC00;
+}
+.img1
+{
+float:left;
+}
+#img1
+{
+float:left;
+}
+.table4
+{
+border-collapse;
+border:10px solid #D0D0D0;
+background-color:white;
+}
+#table4
+{
+border-collapse;
+border:10px solid #D0D0D0;
+background-color:white;
+}
+.p1
+{
+text-indent:50px;
+}
+#p1
+{
+text-indent:50px;
+}
+.ul3
+{
+display:inline;
+list-style-type:none;
+margin:0;
+padding:0;
+float:center;
+}
+#ul3
+{
+list-style-type:none;
+margin:0;
+padding:0;
+display:inline;
+float:center;
+}
+/* Top Cascade.html */
+.icon2
+{
+list-style-type:none;
+margin:0;
+padding:0;
+float:center;
+}
+#icon2
+{
+list-style-type:none;
+margin:0;
+padding:0;
+float:center;
+}
+/* Romania.html */
+.table5
+{
+border-collapse;
+border:4px solid green;
+background-color:#99FFFF;
+float:center;
+}
+#table5
+{
+border-collapse;
+border:4px solid green;
+background-color:#99FFFF;
+float:center;
+}
+.table6
+{
+list-style-type:none;
+margin:0;
+padding:0;
+float:left;
+}
+#table6
+{
+list-style-type:none;
+margin:0;
+padding:0;
+float:left;
+}
+.table7
+{
+list-style-type:none;
+margin:0;
+padding:0;
+float:right;
+}
+#table7
+{
+list-style-type:none;
+margin:0;
+padding:0;
+float:right;
+}
+/* Franta.html */
+.table8
+{
+border-collapse;
+border:4px solid #FF0000;
+background-color:#F88017;
+float:center;
+}
+#table8
+{
+border-collapse;
+border:4px solid #FF0000;
+background-color:#F88017;
+float:center;
+}
+.table9
+{
+border-collapse;
+border:4px solid #8E35EF;
+background-color:#C38EC7;
+float:center;
+}
+#table9
+{
+border-collapse;
+border:4px solid #8E35EF;
+background-color:#C38EC7;
+float:center;
+}
+.table10
+{
+border-collapse;
+border:4px solid #E77471;
+background-color:#FFF8C6;
+float:center;
+}
+#table10
+{
+border-collapse;
+border:4px solid #E77471;
+background-color:#FFF8C6;
+float:center;
+}
+/* Anglia.html */
+.table11
+{
+border-collapse;
+border:4px solid #7D2252;
+background-color:#F62817;
+float:center;
+}
+#tablel1
+{
+border-collapse;
+border:4px solid #7D2252;
+background-color:#F62817;
+float:center;
+}
+.table12
+{
+border-collapse;
+border:4px solid #7D2252;
+background-color:#7F5A58;
+float:center;
+}
+#tablel2
+{
+border-collapse;
+border:4px solid #7D2252;
+background-color:#7F5A58;
+float:center;
+}
+/* Elvetia.html */
+.table13
+{
+border-collapse;
+border:4px solid #B93B8F;
+background-color:#5CB3FF;
+float:center;
+}
+#tablel3
+{
+border-collapse;
+border:4px solid #B93B8F;
+background-color#5CB3FF;
+float:center;
+}
+/* Austria.html */
+.table14
+{
+border-collapse;
+border:4px solid #B93B8F;
+background-color:#306EFF;
+float:center;
+}
+#tablel4
+{
+border-collapse;
+border:4px solid #B93B8F;
+background-color#306EFF;
+float:center;
+}
+/* Germania.html */
+.table15
+{
+border-collapse;
+border:4px solid #B93B8F;
+background-color:#BDEDFF;
+float:center;
+}
+#tablel5
+{
+border-collapse;
+border:4px solid #B93B8F;
+background-color:#BDEDFF;
+float:center;
+}
